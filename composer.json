@@ -6,5 +6,10 @@
             "email": "yusuf.irwandi@olx.co.id"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "PackageA\\": "src/"
+        }
+    },
     "require": {}
 }
