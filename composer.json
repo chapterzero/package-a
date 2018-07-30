@@ -1,0 +1,10 @@
+{
+    "name": "chapterzero/package-a",
+    "authors": [
+        {
+            "name": "Yusuf Irwandi",
+            "email": "yusuf.irwandi@olx.co.id"
+        }
+    ],
+    "require": {}
+}
