@@ -12,4 +12,9 @@ class BruteTool
     {
         return sqrt($int);
     }
+
+    public function times2($int)
+    {
+        return $int * 2;
+    }
 }
