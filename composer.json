@@ -11,5 +11,7 @@
             "PackageA\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "chapterzero/package-c": "dev-master"
+    }
 }
