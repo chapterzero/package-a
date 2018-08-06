@@ -13,5 +13,11 @@
     },
     "require": {
         "chapterzero/package-c": "dev-master"
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:chapterzero/package-c.git"
+        }
+    ]
 }
